@@ -38,3 +38,9 @@ female.push false
 female.shift
 # calling .unshift true will add true to the beginning of the female array
 female. unshift true
+
+# The index position is the numerical location of a specific element in an array.
+# To find the second element in the friends array, I will use 1 as the index position. The output should be "Tina"
+puts friends[1]
+# To find the the first element in the female array, I will use the index position 0
+puts female[0]
