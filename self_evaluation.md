@@ -11,4 +11,4 @@
 
   - Is there a maximum number of elements you can have in an array?
   - Can you have an array within an array?
-  - Can you do multiple menthods in one line. For example, remove an element and add an element to the same array?
+  - Can you do multiple methods in one line. For example, remove an element and add an element to the same array?
