@@ -44,3 +44,7 @@ female. unshift true
 puts friends[1]
 # To find the the first element in the female array, I will use the index position 0
 puts female[0]
+
+# The .insert(index, element) array method allows you to insert a new element(s) into an exsiting array in a specific index position.
+friends.insert(2, "Kelsie")
+puts friends
